@@ -81,12 +81,25 @@ content:
         sub_title: BSc Computer Science
         quote: >
         description: | # this will include new lines to allow paragraphs
-            - 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여
-            - 운영과 동일한 web/was설정진행(Linux/jeus/webtob)
-            - svn hook을 사용하여 소스 반영 시 자동 maven build 설정
-            - 소스 반영 시 자동 maven build 설정(svn hook)
-            - JEUSADMIN을 사용하여 컨테이너 재기동 시간 단축
-            - CI(Jenkins)내 Job 설정으로 배포 부담 경감 및 배포 프로세스 안정화
+            . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여
+            . 운영과 동일한 web/was설정진행(Linux/jeus/webtob)
+            . git hook을 사용하여 소스 반영 시 자동 maven build 설정
+            . 소스 반영 시 자동 maven build 설정(svn hook)
+            . JEUSADMIN을 사용하여 컨테이너 재기동 시간 단축
+            . CI(Jenkins)내 Job 설정으로 배포 부담 경감 및 배포 프로세스 안정화
+            
+      - layout: left
+        title: 테스트베드 구축
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여
+            . 운영과 동일한 web/was설정진행(Linux/jeus/webtob)
+            . git hook을 사용하여 소스 반영 시 자동 maven build 설정
+            . 소스 반영 시 자동 maven build 설정(svn hook)
+            . JEUSADMIN을 사용하여 컨테이너 재기동 시간 단축
+            . CI(Jenkins)내 Job 설정으로 배포 부담 경감 및 배포 프로세스 안정화
 
 #   - title: Projects # Title for the section
 #     layout: list # Type of content section (list/text)
