@@ -52,11 +52,11 @@ about_content: | # this will include new lines to allow paragraphs
    유연한 비즈니스를 겸비한<br/>
    <mark>future developer 한묘경</mark>입니다.<br/>
    <br/>
-   <mark>Skill set<br/>
-   Language : JAVA, PYTHON, SQL, shell script, jsp <br/>
-   Platform : WEB/APP<br/>
-   System   : Window, Linux<br/>
-   Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, Xplatform, GIT, SVN, Jenkins, Redmine, Jira<br/>
+   <mark>Skill set</mark><br/>
+    . Language : JAVA, PYTHON, SQL, shell script, jsp <br/>
+    . Platform : WEB/APP<br/>
+    . System   : Window, Linux<br/>
+    . Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, Xplatform, GIT, SVN, Jenkins, Redmine, Jira<br/>
 
 content:
 
