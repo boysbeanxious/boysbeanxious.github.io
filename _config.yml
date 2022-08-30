@@ -69,7 +69,7 @@ content:
         caption: 2017.01.09 ~ 2021.12.31
         quote: >
         description: | # this will include new lines to allow paragraphs
-            신세계 면세점 BO(Back Office) 개발, 시스템 운영 
+            신세계 면세점 BO(Back Office) 개발, 시스템 운영 <br/>
             . 발주, 물류, 수수료, 정산 시스템
             
   - title: Projects # Title for the section
@@ -82,21 +82,21 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여<br/>
-            . 운영과 동일한 web/was설정진행(Linux/jeus/webtob)
-            . git hook을 사용하여 소스 반영 시 자동 maven build 설정
-            . 소스 반영 시 자동 maven build 설정(svn hook)
-            . JEUSADMIN을 사용하여 컨테이너 재기동 시간 단축
-            . CI(Jenkins)내 Job 설정으로 배포 부담 경감 및 배포 프로세스 안정화
+            . 운영과 동일한 web/was설정진행(Linux/jeus/webtob)<br/>
+            . git hook을 사용하여 소스 반영 시 자동 maven build 설정<br/>
+            . 소스 반영 시 자동 maven build 설정(svn hook)<br/>
+            . JEUSADMIN을 사용하여 컨테이너 재기동 시간 단축<br/>
+            . CI(Jenkins)내 Job 설정으로 배포 부담 경감 및 배포 프로세스 안정화<br/>
             
       - layout: left
-        title: 대량구매자 업무 프로세스 구축
+        title: 대량구매자 업무<br/> 프로세스 구축
         caption: 2019.10 - 2019.12
         sub_title: #SQL, #tunning, #효율
         quote: >
         description: | # this will include new lines to allow paragraphs
-            . 면세점 내 대량 구매자 관리업무를 시스템화하여 업무 효율 증대
-            . 대량구매자 관리 업무 개발 (JAVA, Spring Framework, SQL, XPlatform) 
-            . SQL TUNNING을 진행하여 매출데이터 속도개선(Oracle)
+            . 면세점 내 대량 구매자 관리업무를 시스템화하여 업무 효율 증대<br/>
+            . 대량구매자 관리 업무 개발 (JAVA, Spring Framework, SQL, XPlatform)<br/> 
+            . SQL TUNNING을 진행하여 매출데이터 속도개선(Oracle)<br/>
             
       - layout: left
         title: 마감 업무 자동화
@@ -104,12 +104,12 @@ content:
         sub_title: BSc Computer Science
         quote: >
         description: | # this will include new lines to allow paragraphs
-            . 재고/원가 마감작업 자동화를 통한 업무 처리 시간 단축
-            . One-step 마감업무를 step-by-step으로 변경하여 업무 리스크 경감
-            . UI/BATCH 이원화로 능률적인 업무 환경 구축에 기여
-            . 마감 UI서비스 개발(JAVA, SpringFramework, SQL, XPlatform)
-            . 마감 배치개발 (JAVA(AbstractCron), Spring Framework, PL/SQL) 
-            . step 별 알림 및 검증 추가로 사용자 편의성 향상
+            . 재고/원가 마감작업 자동화를 통한 업무 처리 시간 단축<br/>
+            . One-step 마감업무를 step-by-step으로 변경하여 업무 리스크 경감<br/>
+            . UI/BATCH 이원화로 능률적인 업무 환경 구축에 기여<br/>
+            . 마감 UI서비스 개발(JAVA, SpringFramework, SQL, XPlatform)<br/>
+            . 마감 배치개발 (JAVA(AbstractCron), Spring Framework, PL/SQL) <br/>
+            . step 별 알림 및 검증 추가로 사용자 편의성 향상<br/>
             
       - layout: left
         title: 고객 모바일 체크인 기능 설계
@@ -117,10 +117,11 @@ content:
         sub_title: BSc Computer Science
         quote: >
         description: | # this will include new lines to allow paragraphs
-            . 구매 고객 등록내역의 허수 축소를 위한 모바일 체크인 기능 설계
-            . 구매 전환율 10% > 80% 향상
-            . 고객 별 체크인 모바일 웹 페이지 개발(JSP, JAVA, SpringFramework)
-            . 일자 별 고객 체크인 이력 Logging API 개발(JAVA, SpringFramework, SQL) - 일자 별 이력 관리 구조를 통한 속도 이슈 개선
+            . 구매 고객 등록내역의 허수 축소를 위한 모바일 체크인 기능 설계<br/>
+            . 구매 전환율 10% > 80% 향상<br/>
+            . 고객 별 체크인 모바일 웹 페이지 개발(JSP, JAVA, SpringFramework)<br/>
+            . 일자 별 고객 체크인 이력 Logging API 개발(JAVA, SpringFramework, SQL) <br/>
+            . 일자 별 이력 관리 구조를 통한 속도 이슈 개선<br/>
 
 #   - title: Projects # Title for the section
 #     layout: list # Type of content section (list/text)
