@@ -51,6 +51,11 @@ about_content: | # this will include new lines to allow paragraphs
    시스템 개발 경험에서 우러나온 견고함에
    유연한 비즈니스를 겸비한 
    <mark>future developer 한묘경</mark>입니다.
+   Language platform : JAVA, PYTHON, SQL, shell script, jsp 
+   Platform : WEB/APP
+   System: Window, Linux
+   Tool: IntelliJ, Eclips, jupyter notebook, DataGrip, Xplatform, GIT, SVN, Jenkins, Redmine, Jira
+
 content:
 
   - title: Experience # Title for the section
@@ -58,33 +63,49 @@ content:
     content:
       - layout: left
         title: 신세계아이앤씨
-        link: boringcompany.com
+#         link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 프로그래머
         caption: 2017.01.09 ~ 2021.12.31
         quote: >
-          신세계 면세점 BO(Back Office) 발주, 물류, 수수료 정산시스템 백앤드 개발, 시스템 운영 
         description: | # this will include new lines to allow paragraphs
-            신세계 면세점 BO(Back Office) 발주, 물류, 수수료 정산시스템 백앤드 개발, 시스템 운영 
-
+            신세계 면세점 BO(Back Office) 개발, 시스템 운영 
+            . 발주, 물류, 수수료, 정산 시스템
+            
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      - layout: left
+        title: 테스트베드 구축
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+            - 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여
+            - 운영과 동일한 web/was설정진행(Linux/jeus/webtob)
+            - svn hook을 사용하여 소스 반영 시 자동 maven build 설정
+            - 소스 반영 시 자동 maven build 설정(svn hook)
+            - JEUSADMIN을 사용하여 컨테이너 재기동 시간 단축
+            - CI(Jenkins)내 Job 설정으로 배포 부담 경감 및 배포 프로세스 안정화
+
+#   - title: Projects # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: 테스트베드 구축
+# #         link: github.com/sproogen
+#         # link_text: Project Website
+#         additional_links:
+#           - title:  sproogen/modern-resume-theme
+#             icon: fab fa-github
+#             url: github.com/sproogen/modern-resume-theme
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           #   icon: fab fa-github
+#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         quote: >
+#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#         description: | # this will include new lines to allow paragraphs
+#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
