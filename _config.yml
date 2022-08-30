@@ -81,7 +81,7 @@ content:
         sub_title: #devops, # 배포
         quote: >
         description: | # this will include new lines to allow paragraphs
-            . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여
+            . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여<br/>
             . 운영과 동일한 web/was설정진행(Linux/jeus/webtob)
             . git hook을 사용하여 소스 반영 시 자동 maven build 설정
             . 소스 반영 시 자동 maven build 설정(svn hook)
