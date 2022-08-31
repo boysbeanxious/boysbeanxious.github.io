@@ -81,7 +81,7 @@ content:
         title: devops 테스트베드 구축
         caption: 2021.03 - 2021.06
         sub_title: ##devops, ## 배포
-        quote: >
+#         quote: >
         description: | # this will include new lines to allow paragraphs
             . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여<br/>
             . 운영과 동일한 web/was설정진행(Linux/jeus/webtob)<br/>
