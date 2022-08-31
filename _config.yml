@@ -168,13 +168,11 @@ content:
   - title: Portfolio
     layout: text
     content: | # this will include new lines to allow paragraphs
-      지금까지 진행한 프로젝트의 포트폴리오입니다 :
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
+      지금까지 진행한 프로젝트의 포트폴리오입니다
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
       ![portfolio](images/portfolio.png "portfolio")
 
 # Footer
