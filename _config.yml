@@ -165,7 +165,7 @@ content:
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
         
-  - title: A Little More About Me
+  - title: Portfolio
     layout: text
     content: | # this will include new lines to allow paragraphs
       지금까지 진행한 프로젝트의 포트폴리오입니다 :
