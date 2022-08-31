@@ -80,7 +80,7 @@ content:
       - layout: left
         title: devops 테스트베드 구축
         caption: 2021.03 - 2021.06
-        sub_title: "#"devops, "#" 배포
+        sub_title: devops, 배포
 #         quote: >
         description: | # this will include new lines to allow paragraphs
             . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여<br/>
@@ -93,7 +93,7 @@ content:
       - layout: left
         title: 대량구매자 업무<br/> 프로세스 구축
         caption: 2019.10 - 2019.12
-        sub_title: ##SQL, ##tunning, ##효율
+        sub_title: SQL, tunning, 효율
         quote: >
         description: | # this will include new lines to allow paragraphs
             . 면세점 내 대량 구매자 관리업무를 시스템화하여 업무 효율 증대<br/>
@@ -103,7 +103,7 @@ content:
       - layout: left
         title: 마감 업무 자동화
         caption: 2019.10 - 2019.12
-        sub_title: BSc Computer Science
+        sub_title: JAVA, Spring Framework
         quote: >
         description: | # this will include new lines to allow paragraphs
             . 재고/원가 마감작업 자동화를 통한 업무 처리 시간 단축<br/>
@@ -116,7 +116,7 @@ content:
       - layout: left
         title: 모바일 체크인 <br/>기능 설계
         caption: 2019.10 - 2019.12
-        sub_title: BSc Computer Science
+        sub_title: API, 
         quote: >
         description: | # this will include new lines to allow paragraphs
             . 구매 고객 등록내역의 허수 축소를 위한 모바일 체크인 기능 설계<br/>
