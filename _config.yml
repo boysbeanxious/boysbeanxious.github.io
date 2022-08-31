@@ -80,7 +80,7 @@ content:
       - layout: left
         title: devops 테스트베드 구축
         caption: 2021.03 - 2021.06
-        sub_title: ##devops, ## 배포
+        sub_title: "#"devops, "#" 배포
 #         quote: >
         description: | # this will include new lines to allow paragraphs
             . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여<br/>
@@ -114,7 +114,7 @@ content:
             . step 별 알림 및 검증 추가로 사용자 편의성 향상<br/>
             
       - layout: left
-        title: 모바일 체크인 기능<br/> 설계
+        title: 모바일 체크인 <br/>기능 설계
         caption: 2019.10 - 2019.12
         sub_title: BSc Computer Science
         quote: >
