@@ -93,7 +93,7 @@ content:
       - layout: left
         title: 대량구매자 업무<br/> 프로세스 구축
         caption: 2019.10 - 2019.12
-        sub_title: ##SQL, ##tunning, ##효율
+        sub_title: '#'SQL, '#'tunning, '#'효율
         quote: >
         description: | # this will include new lines to allow paragraphs
             . 면세점 내 대량 구매자 관리업무를 시스템화하여 업무 효율 증대<br/>
@@ -104,7 +104,7 @@ content:
         title: 마감 업무 자동화
         caption: 2019.10 - 2019.12
         sub_title: BSc Computer Science
-        quote: >
+#         quote: >
         description: | # this will include new lines to allow paragraphs
             . 재고/원가 마감작업 자동화를 통한 업무 처리 시간 단축<br/>
             . One-step 마감업무를 step-by-step으로 변경하여 업무 리스크 경감<br/>
