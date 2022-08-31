@@ -156,9 +156,9 @@ content:
         description: | # this will include new lines to allow paragraphs
 
       - layout: left
-        title: KAIST
-        caption: 2021.01 - 2021.12
-        sub_title: 정보미디어 MBA
+        title: 성신여자대학교
+        caption: 2011.03 - 2016.08
+        sub_title: IT학부(정보미디어 전공/ 컴퓨터소프트웨어 부전공)
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
