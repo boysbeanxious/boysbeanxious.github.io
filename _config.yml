@@ -169,13 +169,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       지금까지 진행한 프로젝트의 포트폴리오입니다
-      #- Rock climbing
-      #- Gaming
-      #- Knitting
-      #- [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      # Rock climbing
+      # Gaming
+      # Knitting
+      # [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
       
-      ![portfolio](images/portfolio.png "portfolio")
-      <iframe src="https://onedrive.live.com/embed?cid=8162585282E39357&resid=8162585282E39357%21126&authkey=AByv7wiF5g-d7v8&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+      #![portfolio](images/portfolio.png "portfolio")
+      <iframe src="https://onedrive.live.com/embed?cid=8162585282E39357&resid=8162585282E39357%21126&authkey=AByv7wiF5g-d7v8&em=2" width="1429" height="2504" frameborder="0" scrolling="no"></iframe>
 
 # Footer
 footer_show_references: true
