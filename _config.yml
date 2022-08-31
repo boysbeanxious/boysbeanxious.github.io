@@ -80,7 +80,7 @@ content:
       - layout: left
         title: devops 테스트베드 구축
         caption: 2021.03 - 2021.06
-        sub_title: ##devops, ## 배포
+        sub_title: devops, 배포
 #         quote: >
         description: | # this will include new lines to allow paragraphs
             . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여<br/>
@@ -93,7 +93,7 @@ content:
       - layout: left
         title: 대량구매자 업무<br/> 프로세스 구축
         caption: 2019.10 - 2019.12
-        sub_title: ##SQL, ##tunning, ##효율
+        sub_title: SQL, tunning, 효율
         quote: >
         description: | # this will include new lines to allow paragraphs
             . 면세점 내 대량 구매자 관리업무를 시스템화하여 업무 효율 증대<br/>
@@ -104,7 +104,7 @@ content:
         title: 마감 업무 자동화
         caption: 2019.10 - 2019.12
         sub_title: BSc Computer Science
-        quote: >
+        quote: > 정산, 마감, batch
         description: | # this will include new lines to allow paragraphs
             . 재고/원가 마감작업 자동화를 통한 업무 처리 시간 단축<br/>
             . One-step 마감업무를 step-by-step으로 변경하여 업무 리스크 경감<br/>
@@ -117,7 +117,7 @@ content:
         title: 고객 모바일 체크인 기능 설계
         caption: 2019.10 - 2019.12
         sub_title: BSc Computer Science
-        quote: >
+        quote: > API, loging
         description: | # this will include new lines to allow paragraphs
             . 구매 고객 등록내역의 허수 축소를 위한 모바일 체크인 기능 설계<br/>
             . 구매 전환율 10% > 80% 향상<br/>
@@ -148,9 +148,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: KAIST
+        caption: 2021.01 - 2021.12
+        sub_title: 정보미디어MBA
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -158,10 +158,22 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+      - layout: left
+        title: 성신여자대학교
+        caption: 2011.03 - 2026.08
+        sub_title: IT학부 정보미디어(주전공), 컴퓨터소프트웨어(부전공)
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      지금까지 진행한 프로젝트를 포트폴리오로 작성하였습니다.
       - Rock climbing
       - Gaming
       - Knitting
