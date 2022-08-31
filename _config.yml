@@ -161,7 +161,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      지금까지 진행한 개인 프로젝트의 포트폴리오입니다 :
       - Rock climbing
       - Gaming
       - Knitting
