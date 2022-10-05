@@ -51,9 +51,11 @@ about_content: | # this will include new lines to allow paragraphs
    시스템 개발 경험에서 우러나온 견고함에<br/>
    비즈니스를 겸비한<br/>
    <mark>future developer 한묘경</mark>입니다.<br/>
+   
    <br/>
    <mark>관심분야</mark><br/>
-   <strong>#Data Analytics</strong><br/>
+   <strong>#Data Analytics</strong><strong>#Machine Learning</strong><strong>#Media</strong><strong>#Platform</strong><br/>
+   <br/>
    <mark>Skill set</mark><br/>
     . Language : PYTHON, SQL, JAVA, shell script, jsp <br/>
     . Platform : WEB/APP<br/>
