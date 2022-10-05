@@ -49,11 +49,12 @@ linkedin_username: boysbeanxious
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
    시스템 개발 경험에서 우러나온 견고함에<br/>
-   유연한 비즈니스를 겸비한<br/>
+   비즈니스를 겸비한<br/>
    <mark>future developer 한묘경</mark>입니다.<br/>
    <br/>
+   <strong>#%{hashtag}</strong>
    <mark>Skill set</mark><br/>
-    . Language : JAVA, PYTHON, SQL, shell script, jsp <br/>
+    . Language : PYTHON, SQL, JAVA, shell script, jsp <br/>
     . Platform : WEB/APP<br/>
     . System   : Window, Linux<br/>
     . Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, Xplatform, GIT, SVN, Jenkins, Redmine, Jira<br/>
