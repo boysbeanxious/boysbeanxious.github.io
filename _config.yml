@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
    
    <br/>
    <mark>관심분야</mark><br/>
-   <strong>#Data Analytics</strong>, <strong>#Machine Learning</strong>, <strong>#Media</strong>, <strong>#Platform</strong><br/>
+   <em>#Data Analytics</em>, <em>#Machine Learning</em>, <em>#Media</em>, <em>#Platform</em><br/>
    <br/>
    <mark>Skill set</mark><br/>
     . Language : PYTHON, SQL, JAVA, shell script, jsp <br/>
