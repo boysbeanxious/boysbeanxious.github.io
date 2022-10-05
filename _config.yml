@@ -52,7 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
    비즈니스를 겸비한<br/>
    <mark>future developer 한묘경</mark>입니다.<br/>
    <br/>
-   <strong>#%{hashtag}</strong>
+   <mark>관심분야</mark><br/>
+   <strong>#Data Analytics</strong><br/>
    <mark>Skill set</mark><br/>
     . Language : PYTHON, SQL, JAVA, shell script, jsp <br/>
     . Platform : WEB/APP<br/>
