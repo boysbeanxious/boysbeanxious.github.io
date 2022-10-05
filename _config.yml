@@ -79,12 +79,12 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             신세계 면세점 BO(Back Office) 개발, 시스템 운영 <br/>
-            . 2021.  면세점 Digital Transformation 프로젝트 오픈 지원
-                     수수료, 정산 시스템 개발, 운영
-            . 2020.  면세점 Digital Transformation 프로젝트 지원
-            . 2019.  대량구매 시스템 개발, 운영
-            . 2018.  물류시스템 개발, 운영
-            . 2017.  기준정보, 발주 시스템 개발, 운영
+            . 2021.  면세점 Digital Transformation 프로젝트 오픈 지원<br/>   
+                     수수료, 정산 시스템 개발, 운영<br/>   
+            . 2020.  면세점 Digital Transformation 프로젝트 지원<br/>   
+            . 2019.  대량구매 시스템 개발, 운영<br/>   
+            . 2018.  물류시스템 개발, 운영<br/>   
+            . 2017.  기준정보, 발주 시스템 개발, 운영<br/>   
             
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
