@@ -166,19 +166,18 @@ content:
 #         quote: >
 #           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          * 마케팅, 금융, 회계, 전략, 재무 등의 일반 경영관리에 대한 이해를 바탕으로 Business Analytics에 대한 힘을 기르기 위해 KAIST 정보미디어MBA에 입학
+          * 마케팅, 전략, 재무 등의 일반 경영관리에 대한 이해를 바탕으로 Business Analytics에 대한 힘을 기르기 위해 KAIST 정보미디어MBA에 입학
           * 데이터를 기반으로 비즈니스의 문제를 해결하는 인사이트를 얻기 위해 BA 집중분야를 이수
       - layout: left
         title: 성신여자대학교
         caption: 2011.03 - 2016.08
-        sub_title: IT학부<br/>
-                    정보미디어 전공<br/> 
-                    컴퓨터소프트웨어 부전공
+        sub_title: IT학부
 #         quote: >
 #           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          * 정보미디어를 주전공으로 하여 소프트웨어 공학을 기반으로 서비스의 라이프 사이클 이해는 물론 요구사항 분석과 설계에 대해 심도 있게 학습<br/>
-          * 컴퓨터 소프트웨어를 부전공으로 선택하여 컴퓨터 언어와 구조에 대한 이해를 높임
+          * 정보미디어를 주전공으로 소프트웨어 공학을 기반 서비스 라이프 사이클 이해 및 요구사항 분석과 설계에 대해 심도 있게 학습<br/>
+          * 컴퓨터 소프트웨어를 부전공으로 선택하여 컴퓨터 언어와 구조에 대한 이해를 기반으로 개발 프로젝트 진행<br/>
+          * 졸업 프로젝트인 '매일매일 움직움직' 프로젝트의 기획과 개발에 참여하여 교내 경진대회 대상수상
           
         
   - title: Portfolio
