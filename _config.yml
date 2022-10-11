@@ -48,12 +48,11 @@ linkedin_username: boysbeanxious
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   ![img](images/img13.png "img")
-   <mark>내 꿈은 미디어 데이터분석 전문가</mark><br/>
-   라디오 방송국 인턴PD과 IT, 그리고 MBA를 경험하며 배운것을 기반으로 미디어 데이터 분석 전문가가 되기 위해 노력할 것입니다.<br/>   
-   > <em>방송과 IT, 사람과 사람 사이를 연결한다는 점에서 둘 다 Media 라는 것</em><br/>   
-   > <em>미디어를 통해 사용자들이 감동을 느끼는 순간이 가장 짜릿하다는 것</em><br/>   
-   > <em>사용자의 감동 모먼트를 포착하기 위해선 데이터를 기반으로 분석이 필요하다는 것</em> <br/>
+      # ![img](images/img13.png "img")
+      방송과 IT, 그리고 MBA 에서의 배움을 통해<br/>
+      감동을 전달하는 매개체로서의 미디어의 힘을 최대로 끌어내고자 하는, <br/>
+      미디어의 힘을 믿는, <br/>
+      데이터 분석가 한묘경입니다.
    
    <br/>
    <mark>관심분야</mark><br/>
