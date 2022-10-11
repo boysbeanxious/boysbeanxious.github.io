@@ -109,17 +109,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: devops 테스트베드 구축
-        caption: 2021.03 - 2021.06
-        sub_title: devops, 배포
+        title: RFM을 통한 술담화 고객 클러스터링
+        caption: 2022.06 - 2022.07
+        sub_title: <i>#SQL</i> , <i>#PYTHON</i> 
 #         quote: >
         description: | # this will include new lines to allow paragraphs
-            . 통합테스트 환경을 구축하여 팀내 생산성 향상에 기여<br/>
-            . 운영과 동일한 web/was설정진행(Linux/jeus/webtob)<br/>
-            . git hook을 사용하여 소스 반영 시 자동 maven build 설정<br/>
-            . 소스 반영 시 자동 maven build 설정(svn hook)<br/>
-            . JEUSADMIN을 사용하여 컨테이너 재기동 시간 단축<br/>
-            . CI(Jenkins)내 Job 설정으로 배포 부담 경감 및 배포 프로세스 안정화<br/>
+            - 찾아오는 인생술, [술담화] 의 매출데이터로 고객 RFM 산출
+            - RFM기반으로 클러스터링을 진행
+            - 실루엣계수가 가장 높은 최적의 클러스터 개수 선택하여 고객 세분화
+
             
       - layout: left
         title: 대량구매자 업무<br/> 프로세스 구축
