@@ -47,8 +47,7 @@ linkedin_username: boysbeanxious
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-      # ![img](images/img13.png "img")
+about_content: | # this will include new lines to allow paragraphs #![img](images/img13.png "img")
       방송과 IT, 그리고 MBA 에서의 배움을 통해<br/>
       감동을 전달하는 매개체로서의 미디어의 힘을 최대로 끌어내고자 하는, <br/>
       미디어의 힘을 믿는, <br/>
