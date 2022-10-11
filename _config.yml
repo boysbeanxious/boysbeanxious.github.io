@@ -140,49 +140,16 @@ content:
                 - 예측이 아닌 상승과 하락의 분류로 변경하여 진행
                 - 높은 정확도를 위한 최적 모델 탐색
       - layout: left
-        title: 마감 업무 자동화
-        caption: 2019.10 - 2019.12
-        sub_title: JAVA, Spring Framework
+        title: 외식업 상권분석 및 업종 추천
+        caption: 2022.04 - 2022.06
+        sub_title: <i>#Postgresql</i> , <i>#PYTHON</i> 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            . 재고/원가 마감작업 자동화를 통한 업무 처리 시간 단축<br/>
-            . One-step 마감업무를 step-by-step으로 변경하여 업무 리스크 경감<br/>
-            . UI/BATCH 이원화로 능률적인 업무 환경 구축에 기여<br/>
-            . 마감 UI서비스 개발(JAVA, SpringFramework, SQL, XPlatform)<br/>
-            . 마감 배치개발 (JAVA(AbstractCron), Spring Framework, PL/SQL) <br/>
-            . step 별 알림 및 검증 추가로 사용자 편의성 향상<br/>
-            
-      - layout: left
-        title: 모바일 체크인 <br/>기능 설계
-        caption: 2019.10 - 2019.12
-        sub_title: API, 
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-            . 구매 고객 등록내역의 허수 축소를 위한 모바일 체크인 기능 설계<br/>
-            . 구매 전환율 10% > 80% 향상<br/>
-            . 고객 별 체크인 모바일 웹 페이지 개발(JSP, JAVA, SpringFramework)<br/>
-            . 일자 별 고객 체크인 이력 Logging API 개발(JAVA, SpringFramework, SQL) <br/>
-            . 일자 별 이력 관리 구조를 통한 속도 이슈 개선<br/>
-
-#   - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: 테스트베드 구축
-# #         link: github.com/sproogen
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: github.com/sproogen/modern-resume-theme
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#           #   icon: fab fa-github
-#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#         description: | # this will include new lines to allow paragraphs
-#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+            - 업종 별 매출에 영향을 미치는 요인 추출
+            - 카이스트 주변과 유사한 상권 확인을 위한 군집 분석 진행 
+            - 업종별 유의미한 변수 기반으로 카이스트 주변 상권의 예상 매출 top4 확인
+            - 예상을 깨고 치킨전문점이 아닌 한식전문점이 가장 높은 매출을 보임  
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
