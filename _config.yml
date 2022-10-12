@@ -48,19 +48,15 @@ linkedin_username: boysbeanxious
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs #![img](images/img13.png "img")
-                  방송과 IT, 그리고 MBA 에서의 배움을 통해<br/>
-                  감동을 전달하는 매개체로서의 미디어의 힘을 최대로 끌어내고자 하는, <br/>
-                  미디어의 힘을 믿는, <br/>
-                  데이터 분석가 한묘경입니다.
-               <br/>
-               <mark>관심분야</mark><br/>
-               <i>#Data Analytics</i>, <i>#Machine Learning</i>, <i>#Media</i>, <i>#Platform</i><br/>
-               <br/>
-               <mark>Skill set</mark><br/>
-                . Language : PYTHON, SQL, JAVA, shell script, jsp <br/>
-                . Platform : WEB/APP<br/>
-                . System   : Window, Linux<br/>
-                . Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, Xplatform, GIT, SVN, Jenkins, Redmine, Jira<br/>
+       <br/>
+       <mark>관심분야</mark><br/>
+       <i>#Data Analytics</i>, <i>#Machine Learning</i>, <i>#Media</i>, <i>#Platform</i><br/>
+       <br/>
+       <mark>Skill set</mark><br/>
+        . Language : PYTHON, SQL, JAVA, shell script, jsp <br/>
+        . Platform : WEB/APP<br/>
+        . System   : Window, Linux<br/>
+        . Tool     : IntelliJ, Eclips, jupyter notebook, DataGrip, Xplatform, GIT, SVN, Jenkins, Redmine, Jira<br/>
 
 content:
 
