@@ -46,7 +46,7 @@ linkedin_username: boysbeanxious
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs #![img](images/img13.png "img")
        <br/>
        <mark>관심분야</mark><br/>
