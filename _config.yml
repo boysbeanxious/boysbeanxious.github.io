@@ -104,7 +104,7 @@ content:
       - layout: left
         title: RFM을 통한 술담화 고객 클러스터링
         caption: 2022.06 - 2022.07
-        sub_title: <i>#SQL</i> , <i>#PYTHON</i> 
+        sub_title: <i>#SQL</i> , <i>#Python</i> 
 #         quote: >
         description: | # this will include new lines to allow paragraphs
             - 찾아오는 인생술, [술담화] 의 매출데이터를 기반으로 고객별 RFM 산출
@@ -116,7 +116,7 @@ content:
       - layout: left
         title: INSERT COIN<br/> Trilogy
         caption: 2020.10 - on going
-        sub_title: <i>#Postgresql</i> , <i>#PYTHON</i> 
+        sub_title: <i>#AWS</i> , <i>#Crawling</i> 
         quote: >
         description: | # this will include new lines to allow paragraphs
             - INSERT COIN I
@@ -136,7 +136,7 @@ content:
       - layout: left
         title: 외식업 상권분석 및 업종 추천
         caption: 2022.04 - 2022.06
-        sub_title: <i>#Postgresql</i> , <i>#PYTHON</i> 
+        sub_title: <i>#Data Mining</i> , <i>#Python</i> 
         quote: >
         description: | # this will include new lines to allow paragraphs
             - 업종 별 매출에 영향을 미치는 요인 추출
